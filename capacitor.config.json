@@ -1,0 +1,8 @@
+{
+  "appId": "com.bhimmondal.fightclub",
+  "appName": "Fight Club",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
